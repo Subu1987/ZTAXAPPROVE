@@ -1,0 +1,213 @@
+{
+    "resources": [
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "model/formatter.js"
+        },
+        {
+            "name": "test/flpSandboxMockServer.html"
+        },
+        {
+            "name": "test/integration/FLPIntegrationJourney.js"
+        },
+        {
+            "name": "test/integration/NavigationJourneyPhone.js"
+        },
+        {
+            "name": "test/integration/AllJourneys.js"
+        },
+        {
+            "name": "test/integration/PhoneJourneys.js"
+        },
+        {
+            "name": "test/integration/opaTests.qunit.html"
+        },
+        {
+            "name": "test/integration/NavigationJourney.js"
+        },
+        {
+            "name": "test/integration/BusyJourney.js"
+        },
+        {
+            "name": "test/integration/opaTestsPhone.qunit.html"
+        },
+        {
+            "name": "test/integration/MasterJourney.js"
+        },
+        {
+            "name": "test/integration/NotFoundJourney.js"
+        },
+        {
+            "name": "test/integration/pages/Browser.js"
+        },
+        {
+            "name": "test/integration/pages/Detail.js"
+        },
+        {
+            "name": "test/integration/pages/NotFound.js"
+        },
+        {
+            "name": "test/integration/pages/App.js"
+        },
+        {
+            "name": "test/integration/pages/Master.js"
+        },
+        {
+            "name": "test/integration/pages/Common.js"
+        },
+        {
+            "name": "test/integration/NotFoundJourneyPhone.js"
+        },
+        {
+            "name": "test/integration/BusyJourneyPhone.js"
+        },
+        {
+            "name": "test/testsuite.qunit.html"
+        },
+        {
+            "name": "test/unit/controller/App.controller.js"
+        },
+        {
+            "name": "test/unit/controller/ListSelector.js"
+        },
+        {
+            "name": "test/unit/unitTests.qunit.html"
+        },
+        {
+            "name": "test/unit/allTests.js"
+        },
+        {
+            "name": "test/unit/model/formatter.js"
+        },
+        {
+            "name": "test/unit/model/models.js"
+        },
+        {
+            "name": "test/flpSandbox.html"
+        },
+        {
+            "name": "controller/App.controller.js"
+        },
+        {
+            "name": "controller/Master.controller.js"
+        },
+        {
+            "name": "controller/Detail.controller.js"
+        },
+        {
+            "name": "controller/ListSelector.js"
+        },
+        {
+            "name": "controller/ErrorHandler.js"
+        },
+        {
+            "name": "controller/BaseController.js"
+        },
+        {
+            "name": "controller/tax/TaxOnPreviousEmp.controller.js"
+        },
+        {
+            "name": "controller/tax/TaxOnProperty.controller.js"
+        },
+        {
+            "name": "controller/tax/OtherSource.controller.js"
+        },
+        {
+            "name": "controller/tax/TaxOnHRA.controller.js"
+        },
+        {
+            "name": "controller/tax/Tax80C.controller.js"
+        },
+        {
+            "name": "controller/tax/Tax80.controller.js"
+        },
+        {
+            "name": "localService/metadata.xml"
+        },
+        {
+            "name": "localService/mockserver.js"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "view/DetailNoObjectsAvailable.view.xml"
+        },
+        {
+            "name": "view/App.view.xml"
+        },
+        {
+            "name": "view/NotFound.view.xml"
+        },
+        {
+            "name": "view/Detail.view.xml"
+        },
+        {
+            "name": "view/DetailObjectNotFound.view.xml"
+        },
+        {
+            "name": "view/Master.view.xml"
+        },
+        {
+            "name": "view/ViewSettingsDialog.fragment.xml"
+        },
+        {
+            "name": "view/tax/Tax80.view.xml"
+        },
+        {
+            "name": "view/tax/Tax80C.view.xml"
+        },
+        {
+            "name": "view/tax/TaxOnProperty.view.xml"
+        },
+        {
+            "name": "view/tax/TaxOnPreviousEmp.view.xml"
+        },
+        {
+            "name": "view/tax/fragment/FileUploadHRAView.fragment.xml"
+        },
+        {
+            "name": "view/tax/fragment/FileUploadPreviousEmpView.fragment.xml"
+        },
+        {
+            "name": "view/tax/fragment/FileUploadOtherSourceView.fragment.xml"
+        },
+        {
+            "name": "view/tax/fragment/FileUploadHousePropertyView.fragment.xml"
+        },
+        {
+            "name": "view/tax/fragment/FileUpload80View.fragment.xml"
+        },
+        {
+            "name": "view/tax/fragment/FileUpload80cView.fragment.xml"
+        },
+        {
+            "name": "view/tax/OtherSource.view.xml"
+        },
+        {
+            "name": "view/tax/TaxOnHRA.view.xml"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "test.html"
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "neo-app.json"
+        }
+    ]
+}
